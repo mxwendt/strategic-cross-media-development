@@ -10,13 +10,16 @@ body {
 }
 
 h1 {
+  margin-bottom: 30px;
   font-size: 24px;
   line-height: 1.5em;
 }
 
 .l-content {
   width: 100%;
-  max-width: 900px;
+  max-width: 600px;
+  margin-top: 60px;
   margin-right: auto;
+  margin-top: 60px;
   margin-left: auto;
 }
