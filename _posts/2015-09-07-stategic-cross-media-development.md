@@ -2,7 +2,7 @@
 layout: default
 title: Initial Reflection
 ---
-# Initial Reflection
+# {{ page.title }}
 
 **In your words what is the media industry based on your thoughts, the reading, the videos?**
 
